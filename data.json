@@ -1,0 +1,43 @@
+{
+    "user" : {
+        "fullName": "Tebogo Mojela",
+        "photo" : "images/Mojela.jpg",
+        "photos": "images/Mountain.jpg"
+    },
+    "city" : {
+        "name" : "Chefchaouen",
+        "photo" : "images/chechaouen.jpg",
+        "description" : "I would like to visit chefchaouen, because it was ranked the most beautiful city in 2022, thus i would like to experience it for myself. If you ever gone on Pinterest or Instagram, then you know about Moroccos famous blue city, Chefchaouen, nicknamed the “blue pearl of Morocco.”"
+    },
+    "foreignLanguage" : {
+        "language" : "french",
+        "phrases" : [{
+            "englishPhrase" : "Cold Beverage",
+            "foreignLanguage" : "Boissons froides"
+        },
+        {
+            "englishPhrase" : "Beautiful flower",
+            "foreignLanguage" : "Belle fleur"
+        },
+        {
+            "englishPhrase" : "Bookworm",
+            "foreignLanguage" : "rat de bibliotheque"
+        }]
+    },
+    "favouriteSubjects" : [
+        {
+            "name" : "Philosophy",
+            "description" : "The study of philosophy is an ancient discipline that explores fundamental questions about the nature of reality, knowledge, existence, ethics, and the meaning of life. Philosophy seeks to critically examine and understand the world and our place in it through rational inquiry and argumentation.Philosophy encompasses a wide range of sub-disciplines and branches, each focusing on different aspects of human thought and existence."
+        },
+        {
+            "name" : "Economics",
+            "description" : "The study of economics focuses on understanding how individuals, businesses, and societies allocate scarce resources to satisfy unlimited wants and needs. Economics analyzes the production, distribution, and consumption of goods and services, as well as the factors that influence economic behavior and decision-making"
+        },
+        {
+            "name" : "Politics",
+            "description" : "The study of politics is a discipline that examines the theory and practice of governance, power, and decision-making within societies. It explores how individuals and groups engage in collective action to exercise authority, resolve conflicts, and shape public policies."
+            
+
+        }
+    ]
+}
